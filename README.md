@@ -12,13 +12,14 @@
 - UX/UI design
 
 🧩 Frameworks and libraries that I use:
-- Nuxt 3
+- Nuxt 2
 - Vue 3
 - Axios
 - TailwindCSS, Tailwind Forms
 - Chakra UI
 - SCSS/SASS, LESS
+- Charts.js
 
-# 📫 How to reach me: 
+### 📫 How to reach me: 
 - telegram: @arseny_smorodin
 - email: arseny.smorodin@yandex.ru
