@@ -1,9 +1,12 @@
 ### Hi there👋 I am Arseniy, frontend developer from Russia 
 
 
-🔭 I’m currently develop financial education multiplayer game and other some pet-projects.  
+🔭 I’m currently develop some pet-projects.  
 
-🌱 I’m currently learning VueJS and finishing GeekBrain's course.  
+🌱 I’m currently deepen my VueJS knowledge and learning node.js. 
+
+🎓 My education:
+- Frontend developer course by GeekBrains (finished: January 2023)
 
 💪 My skills:
 - Vue ecosystem (Vue 2/3, VueX, Vue Router, Nuxt 2/3)
