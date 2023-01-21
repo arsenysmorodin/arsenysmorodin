@@ -3,7 +3,7 @@
 
 🔭 I’m currently develop some pet-projects.  
 
-🌱 I’m currently deepen my VueJS knowledge and learning node.js. 
+🌱 I’m currently deepen my VueJS knowledge and learning Docker. 
 
 🎓 My education:
 - Frontend developer course by GeekBrains (finished: January 2023)
