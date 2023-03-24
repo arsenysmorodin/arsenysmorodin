@@ -9,14 +9,14 @@
 - Frontend developer course by GeekBrains (finished: January 2023)
 
 💪 My skills:
-- Vue ecosystem (Vue 2/3, VueX, Vue Router, Nuxt 2/3)
-- JavaScript (including ES6)
+- Vue ecosystem (Vue 2/3, VueX, Pinia, Vue Router, Nuxt 2/3)
+- JavaScript (including ES6 and ES7)
 - HTML/CSS (adaptive and cross-browser layout, BEM methodology)
 - UX/UI design
 
 🧩 Frameworks and libraries that I use:
-- Nuxt 2
-- Vue 3
+- Nuxt 2/3
+- Vue 2/3
 - Axios
 - TailwindCSS, Tailwind Forms
 - Chakra UI
