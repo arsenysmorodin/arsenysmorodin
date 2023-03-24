@@ -5,17 +5,17 @@
 
 🌱 I’m currently deepen my Vue ecosystem knowledge and learning GraphQL. 
 
-#🎓 My education:
+# 🎓 My education:
 - Frontend developer course by GeekBrains (finished: January 2023)
 
-#💪 My skills:
+# 💪 My skills:
 - Vue ecosystem (Vue 2/3, VueX, Pinia, Vue Router, Nuxt 2/3)
 - JavaScript (including ES6 and ES7)
 - HTML/CSS (adaptive and cross-browser layout, BEM methodology)
 - UX/UI design (including mobile-first design)
 - Docker, Docker-compose
 
-#🧩 Frameworks and libraries that I use:
+# 🧩 Frameworks and libraries that I use:
 - Nuxt 2/3
 - Vue 2/3
 - Axios
