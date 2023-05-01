@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there! My name is Arseniy, I'm frontend developer from Russia.
 
 🔭 I’m currently develop a startup alone (find "Evere" in my repos).<br><br>🌱 I’m currently exploring React and it ecosistem.
 
