@@ -1,9 +1,9 @@
 # Hi there👋 I am Arseniy, frontend developer from Russia 
 
 
-🔭 I’m currently develop some pet-projects.  
+🔭 I’m currently develop a startup alone (find "Evere" in my repos).  
 
-🌱 I’m currently deepen my Vue ecosystem knowledge and learning GraphQL. 
+🌱 I’m currently React ecosistem. 
 
 ### 🎓 My education:
 - Frontend developer course by GeekBrains (finished: January 2023)
