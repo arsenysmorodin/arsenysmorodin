@@ -1,11 +1,13 @@
 # 💫 Hi there! My name is Arseniy, I'm frontend developer from Russia.
 
-🔭 I’m currently develop a startup alone (find "Evere" in my repos).<br><br>🌱 I’m currently exploring React and it ecosistem.
+🔭 I’m currently develop a political quiz (find 8values_nuxt in my repos)
+
+🌱 I’m currently exploring React and it ecosistem.
 
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arseniysmorodin)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://instagram.com/arseniysmorodin)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/arseny_smorodin)
 
 # 💻 Tech Stack:
 
