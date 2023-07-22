@@ -1,6 +1,6 @@
 # 💫 Hi there! My name is Arseniy, I'm frontend developer from Russia.
 
-🔭 I’m currently develop a political quiz (find 8values_nuxt in my repos)
+🔭 I’m currently develop a political quiz (find 8values in my repos)
 
 🌱 I’m currently exploring React and it ecosistem.
 
