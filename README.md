@@ -2,7 +2,7 @@
 
 🔭 I’m currently develop an AI startup about timemanagent and planing.
 
-🌱 I’m currently exploring learn some deep feature of Nuxt and his.
+🌱 I’m currently exploring learn some deep feature of Nuxt and his ecosistem.
 
 ## 🌐 Socials:
 
