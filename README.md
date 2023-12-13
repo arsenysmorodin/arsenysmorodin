@@ -1,6 +1,6 @@
 # 💫 Hi there! My name is Arseniy, I'm frontend developer from Russia.
 
-🔭 I’m currently develop an AI startup about timemanagent and planing.
+🔭 I’m currently develop a workout app and looking for job.
 
 🌱 I’m currently exploring learn some deep feature of Nuxt and his ecosistem.
 
