@@ -1,6 +1,6 @@
-# 💫 Hi there! My name is Arseniy, I'm frontend developer from Russia.
+# 💫 Hi there! My name is Arseniy, I'm frontend developer from Russia, Moscow.
 
-🔭 I’m currently develop a workout app and looking for job.
+🔭 I’m currently develop a eccomerce platform (Next, React, Strapi), teach children programming and search for job.
 
 🌱 I’m currently exploring learn some deep feature of Nuxt and his ecosistem.
 
