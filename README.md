@@ -2,9 +2,9 @@
 
 🔭 I’m currently develop a eccomerce platform (Next, React, Strapi), teach children programming and search for job.
 
-🌱 I’m currently exploring React ecosystem, Nuxt and CMS Strapi
+🌱 I’m currently exploring React ecosystem, Next and CMS Strapi
 
-👀 I'm interested in Ecommerce, startups, AI and boihacking.
+👀 I'm interested in Ecommerce, startups, AI and biohacking.
 
 ## 🌐 Socials:
 
