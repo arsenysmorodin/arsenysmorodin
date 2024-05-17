@@ -1,8 +1,8 @@
 # 💫 Hi there! My name is Arseniy, I'm frontend developer from Russia, Moscow.
 
-🔭 I’m currently develop a eccomerce platform (Next, React, Strapi), teach children programming and search for job.
+🔭 I’m currently develop a open source project (YourTeam, check my repos), teach children programming and search for job.
 
-🌱 I’m currently exploring React ecosystem, Next and CMS Strapi
+🌱 I’m currently deepung Vue ecosystem knowledge.
 
 👀 I'm interested in Ecommerce, startups, AI and biohacking.
 
