@@ -2,7 +2,7 @@
 
 🔭 I’m currently develop a open source project (YourTeam, check my repos), teach children programming and search for job.
 
-🌱 I’m currently deepung Vue ecosystem knowledge.
+🌱 I’m currently deepping Vue ecosystem knowledge.
 
 👀 I'm interested in Ecommerce, startups, AI and biohacking.
 
