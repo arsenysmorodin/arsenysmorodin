@@ -1,6 +1,6 @@
 # 💫 Hi there! My name is Arseniy, I'm frontend developer from Russia, Moscow.
 
-🔭 I’m currently develop a open source project (YourTeam, check my repos), teach children programming and search for job.
+🔭 I’m currently work in ECommerce company as business automatization specialist.
 
 🌱 I’m currently deepping Vue ecosystem knowledge.
 
