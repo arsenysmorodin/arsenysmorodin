@@ -2,7 +2,7 @@
 
 🔭 I’m currently work in ECommerce company as business automatization specialist.
 
-🌱 I’m currently deepping Vue ecosystem knowledge.
+🌱 I’m currently deepping Node and React ecosystem knowledge.
 
 👀 I'm interested in Ecommerce, startups, AI and biohacking.
 
